@@ -27,6 +27,25 @@
 </p>
 
 <p align="center">
+  <a href="https://agrd.io/github_android_vpn">
+    <img src="https://cdn.adtidy.org/content/github/badges/GooglePlay.png" alt="Get it on Google Play" height="40" />
+  </a>
+  &nbsp;
+  <a href="https://agrd.io/github_huawei_vpn">
+    <img src="https://cdn.adtidy.org/content/github/badges/AppGalleryStore.png" alt="Explore it on AppGallery" height="40" />
+  </a>
+  &nbsp;
+  <a href="https://agrd.io/github_xiaomi_vpn">
+    <img src="https://cdn.adtidy.org/content/github/badges/GetAppsStore.png" alt="Get it on Mi App Mall" height="40" />
+  </a>
+  &nbsp;
+  <a href="https://agrd.io/github_samsung_vpn">
+    <img src="https://cdn.adtidy.org/content/github/badges/GalaxyStore.png" alt="Available on Galaxy Store" height="40" />
+  </a>
+</p>
+
+&nbsp;
+<p align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://cdn.adtidy.org/content/github/vpn/android/dark_home.png" width="250">
     <img src="https://cdn.adtidy.org/content/github/vpn/android/home.png" width="250">
