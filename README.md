@@ -18,11 +18,25 @@
     <a href="https://twitter.com/AdGuard">Twitter</a> |
     <a href="https://t.me/adguard_en">Telegram</a>
     <br /><br />
+    <a href="https://github.com/AdguardTeam/AdguardVPNForAndroid/issues?q=label%3ABug%20state%3Aopen">
+        <img src="https://img.shields.io/github/issues-search/AdguardTeam/AdguardVPNForAndroid?color=orangered&label=%F0%9F%90%9B%20Open%20bugs&query=label%3ABug%20state%3Aopen" />
+    </a>
+    <a href="https://github.com/AdguardTeam/AdguardVPNForAndroid/issues?q=label%3ABug%20state%3Aclosed%20-label%3ADuplicate%20label%3A%22Resolution%3A%20Fixed%22%2C%22Resolution%3A%20Done%22%20">
+        <img src="https://img.shields.io/github/issues-search/AdguardTeam/AdguardVPNForAndroid?color=orange&label=Resolved&query=label%3ABug%20state%3Aclosed%20-label%3ADuplicate%20label%3A%22Resolution%3A%20Fixed%22%2C%22Resolution%3A%20Done%22%20" />
+    </a>
+    <br />
+    <a href="https://github.com/AdguardTeam/AdguardVPNForAndroid/issues?q=label%3A%22Feature%20request%22%20state%3Aopen+sort%3Areactions-%2B1-desc">
+        <img src="https://img.shields.io/github/issues-search/AdguardTeam/AdguardVPNForAndroid?color=seagreen&label=%F0%9F%9A%80%20Open%20feature%20requests&query=label%3A%22Feature%20request%22%20state%3Aopen" />
+    </a>
+    <a href="https://github.com/AdguardTeam/AdguardVPNForAndroid/issues?q=label%3A%22Feature%20request%22%20state%3Aclosed%20-label%3AQuestion%2CDuplicate%20label%3A%22Resolution%3A%20Done%22%2C%22Resolution%3A%20Fixed%22">
+        <img src="https://img.shields.io/github/issues-search/AdguardTeam/AdguardVPNForAndroid?color=%2358A459&label=Implemented&query=label%3A%22Feature%20request%22%20state%3Aclosed%20-label%3AQuestion%2CDuplicate%20label%3A%22Resolution%3A%20Done%22%2C%22Resolution%3A%20Fixed%22" />
+    </a>
+    <br />
     <a href="https://github.com/AdguardTeam/AdGuardVPNForAndroid/releases">
-        <img src="https://img.shields.io/github/tag/AdguardTeam/AdGuardVPNForAndroid.svg?label=release" alt="Latest release" />
+        <img src="https://img.shields.io/github/tag/AdguardTeam/AdGuardVPNForAndroid.svg?color=blue&label=release" alt="Latest release" />
     </a>
     <a href="https://github.com/AdguardTeam/AdGuardVPNForAndroid/releases">
-        <img src="https://img.shields.io/github/tag-pre/AdguardTeam/AdGuardVPNForAndroid.svg?label=beta" alt="Beta version>" />
+        <img src="https://img.shields.io/github/tag-pre/AdguardTeam/AdGuardVPNForAndroid.svg?color=dodgerblue&label=beta" alt="Beta version>" />
     </a>
 </p>
 
