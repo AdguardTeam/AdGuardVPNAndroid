@@ -40,6 +40,8 @@
     </a>
 </p>
 
+
+&nbsp;
 <p align="center">
   <a href="https://agrd.io/github_android_vpn">
     <img src="https://cdn.adtidy.org/content/github/badges/GooglePlay.png" alt="Get it on Google Play" height="40" />
